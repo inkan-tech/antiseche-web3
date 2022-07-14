@@ -30,7 +30,7 @@ On utilise aussi du chiffrement symétrique (la meme clef pour chiffrer/déchiff
 • • •
 
 ## Les blockhains ou LES TECHNOLOGIES DE REGISTRES DISTRIBUÉS (DLT)
-
+ref: https://journalducoin.com/lexique/registres-distribues-dlt/ 
 Vous connaissez les registres (ledger) ce sont les livres de comptes dans lesquels ont n'efface jamais _ réf
 
 double,
