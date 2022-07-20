@@ -12,7 +12,7 @@ Le document est volontairement simple, se focalise sur les usages les plus connu
 
 Les mathématiques du chiffre (cryptographie en anglais) sont la fondation technologique dès qu'on évoque les crypto, blockchains, token, NFT etc...
 
-C'est un domaine vaste, largement documenté, les algorithmes ont plusieurs dizaines d'années[^1]. Nous nous attachons ici aux principes de signature, de chiffrement et de condensats.
+C'est un domaine vaste, largement documenté, les algorithmes ont plusieurs dizaines d'années [^1]. Nous nous attachons ici aux principes de signature, de chiffrement et de condensats.
 
 Chacun doit manipuler des paires de clefs asymétriques. Une clef est un ensemble de données unique. Les clefs ont une partie privée et une publique.
 
@@ -22,7 +22,7 @@ Le receveur pourra vérifier avec la partie publique que la donnée signée n'a 
 
 On utilise aussi du chiffrement symétrique (la meme clef pour chiffrer/déchiffrer) pour les gros volumes car moins gourmand en ressources -
 
-[^1] Voir [Courbe d'Edwards tordue](https://fr.wikipedia.org/wiki/Courbe_d%27Edwards_tordue) remonte à 2008.
+[^1]: Voir [Courbe d'Edwards tordue](https://fr.wikipedia.org/wiki/Courbe_d%27Edwards_tordue) remonte à 2008.
 
 ## Les blockchains ou LES TECHNOLOGIES DE REGISTRES DISTRIBUÉS (DLT)
 
