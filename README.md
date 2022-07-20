@@ -57,12 +57,15 @@ Certains consortiums d'entreprises ont développés des registres privés dont l
 
 Le nombre de nœuds, la gestion des permissions et le protocole de synchronisation sont souvent opaques et on  dépend de la confiance dans le consortium. Ces derniers ne sont pas toujours à la pointe de digital....
 
-### Crypto monnaie.
+### Crypto monnaie
 
-On peut définir n'importe quel objet sur un registre et donc pourquoi pas une monnaie. C'est l'idée de bitcoin, expliquée dans le [whitepaper](https://bitcoin.org/bitcoin.pdf) initial. 
+On peut définir n'importe quel objet sur un registre et donc pourquoi pas une monnaie. C'est l'idée de bitcoin, expliquée dans le [whitepaper](https://bitcoin.org/bitcoin.pdf) initial.
 Une monnaie digitale permet de faire des échanges de valeurs sans repasser par le physique ou par des tiers (banques). Les monnaies sous appelées Token (pièces) et repose sur des DLT sans permissions souvent appelées blockchains.
 
 Cette monnaie digitale permet d'avoir un protocole de synchronisation des noeuds d'un DLT qui récompense les nœuds pour leur travail. Il n'y a pas de permission pour ajouter un noeud au système ou pour utiliser le système. On est uniquement identifié par sa paire de clef, mais toutes les transactions sont publiques. On peut se créer une paire de clefs à tout moment.
+
+Ce système est par construction, lent et cher. Bitcoin peut servir 7 transactions par secondes et chacune coûte plusieurs dollars.
+Visa sert environ 1700 transactions par second en moyenne, et annonce pouvoir traiter 24000 transaction par secondes.
 
 ### Sécurité: 51 %
 
