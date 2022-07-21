@@ -94,3 +94,5 @@ C'est pourquoi l'identité liée à la possession d'une simple clef privée (32 
 Le web initial était aussi un far west avec beaucoup de profiteurs des crédules, ca ne l'a pas empêché de devenir prépondérant.
 
 Journalistes en manque d'inspiration: vous pouvez reprendre les articles de 2000 et remplacer Internet par blockchain et crypto monnaies.
+
+En faisant mes recherches je suis tomber sur le [lexique crypto du journal du coin](https://journalducoin.com/lexique/) qui est bien fait.
